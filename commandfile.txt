@@ -1,0 +1,6 @@
+git --version
+git clone https://github.com/PyJan/gitonshell
+git remote -v
+git status
+git add commandfile.txt
+git reset commandfile.txt
