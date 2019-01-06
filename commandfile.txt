@@ -4,3 +4,4 @@ git remote -v
 git status
 git add commandfile.txt
 git reset commandfile.txt
+git commit -m first commit from shell
